@@ -1,0 +1,13 @@
+C:\Documents and Settings\CoOl DeViL\My Documents\Visual Studio 2008\Projects\KFC\KFC\bin\Release\KFC.mdf
+C:\Documents and Settings\CoOl DeViL\My Documents\Visual Studio 2008\Projects\KFC\KFC\bin\Release\KFC_log.ldf
+C:\Documents and Settings\CoOl DeViL\My Documents\Visual Studio 2008\Projects\KFC\KFC\bin\Release\KFC.exe.config
+C:\Documents and Settings\CoOl DeViL\My Documents\Visual Studio 2008\Projects\KFC\KFC\bin\Release\KFC.exe
+C:\Documents and Settings\CoOl DeViL\My Documents\Visual Studio 2008\Projects\KFC\KFC\bin\Release\KFC.pdb
+C:\Documents and Settings\CoOl DeViL\My Documents\Visual Studio 2008\Projects\KFC\KFC\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\CoOl DeViL\My Documents\Visual Studio 2008\Projects\KFC\KFC\obj\Release\KFC.ADM.resources
+C:\Documents and Settings\CoOl DeViL\My Documents\Visual Studio 2008\Projects\KFC\KFC\obj\Release\KFC.Form1.resources
+C:\Documents and Settings\CoOl DeViL\My Documents\Visual Studio 2008\Projects\KFC\KFC\obj\Release\KFC.main.resources
+C:\Documents and Settings\CoOl DeViL\My Documents\Visual Studio 2008\Projects\KFC\KFC\obj\Release\KFC.Properties.Resources.resources
+C:\Documents and Settings\CoOl DeViL\My Documents\Visual Studio 2008\Projects\KFC\KFC\obj\Release\KFC.csproj.GenerateResource.Cache
+C:\Documents and Settings\CoOl DeViL\My Documents\Visual Studio 2008\Projects\KFC\KFC\obj\Release\KFC.exe
+C:\Documents and Settings\CoOl DeViL\My Documents\Visual Studio 2008\Projects\KFC\KFC\obj\Release\KFC.pdb

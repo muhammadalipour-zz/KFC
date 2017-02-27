@@ -1,0 +1,57 @@
+C:\Documents and Settings\CoOl DeViL\Local Settings\Application Data\Temporary Projects\KFC\bin\Debug\KFC.exe
+C:\Documents and Settings\CoOl DeViL\Local Settings\Application Data\Temporary Projects\KFC\bin\Debug\KFC.pdb
+C:\Documents and Settings\CoOl DeViL\Local Settings\Application Data\Temporary Projects\KFC\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\CoOl DeViL\Local Settings\Application Data\Temporary Projects\KFC\obj\Debug\KFC.Form1.resources
+C:\Documents and Settings\CoOl DeViL\Local Settings\Application Data\Temporary Projects\KFC\obj\Debug\KFC.Properties.Resources.resources
+C:\Documents and Settings\CoOl DeViL\Local Settings\Application Data\Temporary Projects\KFC\obj\Debug\KFC.csproj.GenerateResource.Cache
+C:\Documents and Settings\CoOl DeViL\Local Settings\Application Data\Temporary Projects\KFC\obj\Debug\KFC.exe
+C:\Documents and Settings\CoOl DeViL\Local Settings\Application Data\Temporary Projects\KFC\obj\Debug\KFC.pdb
+C:\Documents and Settings\CoOl DeViL\Local Settings\Application Data\Temporary Projects\KFC\obj\Debug\KFC.main.resources
+C:\Documents and Settings\CoOl DeViL\My Documents\Visual Studio 2008\Projects\KFC\KFC\obj\Debug\KFC.exe
+C:\Documents and Settings\CoOl DeViL\My Documents\Visual Studio 2008\Projects\KFC\KFC\obj\Debug\KFC.pdb
+C:\Documents and Settings\CoOl DeViL\My Documents\Visual Studio 2008\Projects\KFC\KFC\bin\Debug\KFC.exe
+C:\Documents and Settings\CoOl DeViL\My Documents\Visual Studio 2008\Projects\KFC\KFC\bin\Debug\KFC.pdb
+C:\Documents and Settings\CoOl DeViL\My Documents\Visual Studio 2008\Projects\KFC\KFC\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\CoOl DeViL\My Documents\Visual Studio 2008\Projects\KFC\KFC\obj\Debug\KFC.Form1.resources
+C:\Documents and Settings\CoOl DeViL\My Documents\Visual Studio 2008\Projects\KFC\KFC\obj\Debug\KFC.main.resources
+C:\Documents and Settings\CoOl DeViL\My Documents\Visual Studio 2008\Projects\KFC\KFC\obj\Debug\KFC.Properties.Resources.resources
+C:\Documents and Settings\CoOl DeViL\My Documents\Visual Studio 2008\Projects\KFC\KFC\obj\Debug\KFC.csproj.GenerateResource.Cache
+C:\Documents and Settings\CoOl DeViL\My Documents\Visual Studio 2008\Projects\KFC\KFC\obj\Debug\KFC.ADM.resources
+C:\Documents and Settings\CoOl DeViL\My Documents\Visual Studio 2008\Projects\KFC\KFC\bin\Debug\KFC.mdf
+C:\Documents and Settings\CoOl DeViL\My Documents\Visual Studio 2008\Projects\KFC\KFC\bin\Debug\KFC_log.ldf
+C:\Documents and Settings\CoOl DeViL\My Documents\Visual Studio 2008\Projects\KFC\KFC\bin\Debug\KFC.exe.config
+C:\Users\Farhan\Desktop\ppp\KFC\KFC\bin\Debug\KFC.exe.config
+C:\Users\Farhan\Desktop\ppp\KFC\KFC\obj\Debug\KFC.exe
+C:\Users\Farhan\Desktop\ppp\KFC\KFC\obj\Debug\KFC.pdb
+C:\Users\Farhan\Desktop\KFC\KFC\KFC\bin\Debug\KFC.exe.config
+C:\Users\Farhan\Desktop\KFC\KFC\KFC\obj\Debug\KFC.exe
+C:\Users\Farhan\Desktop\KFC\KFC\KFC\obj\Debug\KFC.pdb
+C:\Users\Farhan\Desktop\KFC\KFC\KFC\bin\Debug\KFC.mdf
+C:\Users\Farhan\Desktop\KFC\KFC\KFC\bin\Debug\KFC_log.ldf
+C:\Users\Farhan\Desktop\KFC\KFC\KFC\bin\Debug\KFC.exe
+C:\Users\Farhan\Desktop\KFC\KFC\KFC\bin\Debug\KFC.pdb
+C:\Users\Farhan\Desktop\KFC\KFC\KFC\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Farhan\Desktop\KFC\KFC\KFC\obj\Debug\KFC.ADM.resources
+C:\Users\Farhan\Desktop\KFC\KFC\KFC\obj\Debug\KFC.Form1.resources
+C:\Users\Farhan\Desktop\KFC\KFC\KFC\obj\Debug\KFC.main.resources
+C:\Users\Farhan\Desktop\KFC\KFC\KFC\obj\Debug\KFC.Properties.Resources.resources
+C:\Users\Farhan\Desktop\KFC\KFC\KFC\obj\Debug\KFC.csproj.GenerateResource.Cache
+C:\Users\Farhan\Desktop\KFC\KFC\KFC\obj\Debug\KFC.Form2.resources
+D:\others\Final_Project\C#\KFC\KFC\KFC\bin\Debug\KFC.exe.config
+D:\others\Final_Project\C#\KFC\KFC\KFC\obj\Debug\KFC.exe
+D:\others\Final_Project\C#\KFC\KFC\KFC\obj\Debug\KFC.pdb
+D:\Hamid\HAMID\KFC\KFC\KFC\bin\Debug\KFC.exe.config
+D:\Hamid\HAMID\KFC\KFC\KFC\obj\Debug\KFC.exe
+D:\Hamid\HAMID\KFC\KFC\KFC\obj\Debug\KFC.pdb
+D:\Hamid\HAMID\KFC\KFC\KFC\bin\Debug\KFC.mdf
+D:\Hamid\HAMID\KFC\KFC\KFC\bin\Debug\KFC_log.ldf
+D:\Hamid\HAMID\KFC\KFC\KFC\bin\Debug\KFC.exe
+D:\Hamid\HAMID\KFC\KFC\KFC\bin\Debug\KFC.pdb
+D:\Hamid\HAMID\KFC\KFC\KFC\obj\Debug\ResolveAssemblyReference.cache
+D:\Hamid\HAMID\KFC\KFC\KFC\obj\Debug\KFC.ADM.resources
+D:\Hamid\HAMID\KFC\KFC\KFC\obj\Debug\KFC.Form1.resources
+D:\Hamid\HAMID\KFC\KFC\KFC\obj\Debug\KFC.Form2.resources
+D:\Hamid\HAMID\KFC\KFC\KFC\obj\Debug\KFC.main.resources
+D:\Hamid\HAMID\KFC\KFC\KFC\obj\Debug\KFC.Properties.Resources.resources
+D:\Hamid\HAMID\KFC\KFC\KFC\obj\Debug\GenerateResource-ResGen.read.1.tlog
+D:\Hamid\HAMID\KFC\KFC\KFC\obj\Debug\GenerateResource-ResGen.write.1.tlog

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="KFC">
+</Property><Property Name="Solution File" Value="D:\Hamid\HAMID\KFC\KFC\KFC.sln">
+</Property><Property Name="User Options File" Value="D:\Hamid\HAMID\KFC\KFC\KFC.suo">
+</Property><Property Name="Date" Value="Saturday, October 22, 2011">
+</Property><Property Name="Time" Value="11:34 AM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="KFC.sln" Description="File successfully backed up as D:\Hamid\HAMID\KFC\KFC\Backup\KFC.sln">
+</Event><Event ErrorLevel="0" Project="" Source="KFC.suo" Description="File successfully backed up as D:\Hamid\HAMID\KFC\KFC\Backup\KFC.suo">
+</Event><Event ErrorLevel="0" Project="KFC" Source="KFC\KFC.csproj" Description="Project file successfully backed up as D:\Hamid\HAMID\KFC\KFC\Backup\KFC\KFC.csproj">
+</Event><Event ErrorLevel="0" Project="KFC" Source="KFC\KFC.csproj.user" Description="Project user file successfully backed up as D:\Hamid\HAMID\KFC\KFC\Backup\KFC\KFC.csproj.user">
+</Event><Event ErrorLevel="0" Project="KFC" Source="KFC\ADM.cs" Description="File successfully backed up as D:\Hamid\HAMID\KFC\KFC\Backup\KFC\ADM.cs">
+</Event><Event ErrorLevel="0" Project="KFC" Source="KFC\ADM.Designer.cs" Description="File successfully backed up as D:\Hamid\HAMID\KFC\KFC\Backup\KFC\ADM.Designer.cs">
+</Event><Event ErrorLevel="0" Project="KFC" Source="KFC\Form1.cs" Description="File successfully backed up as D:\Hamid\HAMID\KFC\KFC\Backup\KFC\Form1.cs">
+</Event><Event ErrorLevel="0" Project="KFC" Source="KFC\Form1.Designer.cs" Description="File successfully backed up as D:\Hamid\HAMID\KFC\KFC\Backup\KFC\Form1.Designer.cs">
+</Event><Event ErrorLevel="0" Project="KFC" Source="KFC\Form2.cs" Description="File successfully backed up as D:\Hamid\HAMID\KFC\KFC\Backup\KFC\Form2.cs">
+</Event><Event ErrorLevel="0" Project="KFC" Source="KFC\Form2.Designer.cs" Description="File successfully backed up as D:\Hamid\HAMID\KFC\KFC\Backup\KFC\Form2.Designer.cs">
+</Event><Event ErrorLevel="0" Project="KFC" Source="KFC\KFCDataSet.Designer.cs" Description="File successfully backed up as D:\Hamid\HAMID\KFC\KFC\Backup\KFC\KFCDataSet.Designer.cs">
+</Event><Event ErrorLevel="0" Project="KFC" Source="KFC\main.cs" Description="File successfully backed up as D:\Hamid\HAMID\KFC\KFC\Backup\KFC\main.cs">
+</Event><Event ErrorLevel="0" Project="KFC" Source="KFC\main.Designer.cs" Description="File successfully backed up as D:\Hamid\HAMID\KFC\KFC\Backup\KFC\main.Designer.cs">
+</Event><Event ErrorLevel="0" Project="KFC" Source="KFC\Program.cs" Description="File successfully backed up as D:\Hamid\HAMID\KFC\KFC\Backup\KFC\Program.cs">
+</Event><Event ErrorLevel="0" Project="KFC" Source="KFC\Properties\AssemblyInfo.cs" Description="File successfully backed up as D:\Hamid\HAMID\KFC\KFC\Backup\KFC\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="KFC" Source="KFC\Properties\Resources.Designer.cs" Description="File successfully backed up as D:\Hamid\HAMID\KFC\KFC\Backup\KFC\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="KFC" Source="KFC\Properties\Settings.Designer.cs" Description="File successfully backed up as D:\Hamid\HAMID\KFC\KFC\Backup\KFC\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="KFC" Source="KFC\Properties\Settings.settings" Description="File successfully backed up as D:\Hamid\HAMID\KFC\KFC\Backup\KFC\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="KFC" Source="KFC\app.config" Description="File successfully backed up as D:\Hamid\HAMID\KFC\KFC\Backup\KFC\app.config">
+</Event><Event ErrorLevel="0" Project="KFC" Source="KFC\KFCDataSet.xsc" Description="File successfully backed up as D:\Hamid\HAMID\KFC\KFC\Backup\KFC\KFCDataSet.xsc">
+</Event><Event ErrorLevel="0" Project="KFC" Source="KFC\KFCDataSet.xsd" Description="File successfully backed up as D:\Hamid\HAMID\KFC\KFC\Backup\KFC\KFCDataSet.xsd">
+</Event><Event ErrorLevel="0" Project="KFC" Source="KFC\KFCDataSet.xss" Description="File successfully backed up as D:\Hamid\HAMID\KFC\KFC\Backup\KFC\KFCDataSet.xss">
+</Event><Event ErrorLevel="0" Project="KFC" Source="KFC\Resources\chikpik.jpg" Description="File successfully backed up as D:\Hamid\HAMID\KFC\KFC\Backup\KFC\Resources\chikpik.jpg">
+</Event><Event ErrorLevel="0" Project="KFC" Source="KFC\Resources\fgt.jpeg" Description="File successfully backed up as D:\Hamid\HAMID\KFC\KFC\Backup\KFC\Resources\fgt.jpeg">
+</Event><Event ErrorLevel="0" Project="KFC" Source="KFC\Resources\images.jpeg" Description="File successfully backed up as D:\Hamid\HAMID\KFC\KFC\Backup\KFC\Resources\images.jpeg">
+</Event><Event ErrorLevel="0" Project="KFC" Source="KFC\Resources\kfc_1415444c.jpg" Description="File successfully backed up as D:\Hamid\HAMID\KFC\KFC\Backup\KFC\Resources\kfc_1415444c.jpg">
+</Event><Event ErrorLevel="0" Project="KFC" Source="KFC\Resources\kfc1.jpg" Description="File successfully backed up as D:\Hamid\HAMID\KFC\KFC\Backup\KFC\Resources\kfc1.jpg">
+</Event><Event ErrorLevel="0" Project="KFC" Source="KFC\Resources\KFCMenu1.jpg" Description="File successfully backed up as D:\Hamid\HAMID\KFC\KFC\Backup\KFC\Resources\KFCMenu1.jpg">
+</Event><Event ErrorLevel="0" Project="KFC" Source="KFC\Resources\123.jpeg" Description="File successfully backed up as D:\Hamid\HAMID\KFC\KFC\Backup\KFC\Resources\123.jpeg">
+</Event><Event ErrorLevel="0" Project="KFC" Source="KFC\Resources\kfc.jpg" Description="File successfully backed up as D:\Hamid\HAMID\KFC\KFC\Backup\KFC\Resources\kfc.jpg">
+</Event><Event ErrorLevel="0" Project="KFC" Source="KFC\Resources\clicky.gif" Description="File successfully backed up as D:\Hamid\HAMID\KFC\KFC\Backup\KFC\Resources\clicky.gif">
+</Event><Event ErrorLevel="0" Project="KFC" Source="KFC\KFC.mdf" Description="File successfully backed up as D:\Hamid\HAMID\KFC\KFC\Backup\KFC\KFC.mdf">
+</Event><Event ErrorLevel="0" Project="KFC" Source="KFC\KFC_log.ldf" Description="File successfully backed up as D:\Hamid\HAMID\KFC\KFC\Backup\KFC\KFC_log.ldf">
+</Event><Event ErrorLevel="0" Project="KFC" Source="KFC\ADM.resx" Description="File successfully backed up as D:\Hamid\HAMID\KFC\KFC\Backup\KFC\ADM.resx">
+</Event><Event ErrorLevel="0" Project="KFC" Source="KFC\Form1.resx" Description="File successfully backed up as D:\Hamid\HAMID\KFC\KFC\Backup\KFC\Form1.resx">
+</Event><Event ErrorLevel="0" Project="KFC" Source="KFC\Form2.resx" Description="File successfully backed up as D:\Hamid\HAMID\KFC\KFC\Backup\KFC\Form2.resx">
+</Event><Event ErrorLevel="0" Project="KFC" Source="KFC\main.resx" Description="File successfully backed up as D:\Hamid\HAMID\KFC\KFC\Backup\KFC\main.resx">
+</Event><Event ErrorLevel="0" Project="KFC" Source="KFC\Properties\Resources.resx" Description="File successfully backed up as D:\Hamid\HAMID\KFC\KFC\Backup\KFC\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="KFC" Source="KFC\KFC.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="KFC" Source="KFC\KFC.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="KFC.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="KFC.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="KFC" Source="KFC\KFC.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
